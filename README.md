@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ajrbello/DevOps%20Practice/_apis/build/status/jun204.pipelines-java?branchName=master)](https://dev.azure.com/ajrbello/DevOps%20Practice/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
