@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/ajrbello/DevOps%20Practice/_apis/build/status/jun204.pipelines-java?branchName=master)](https://dev.azure.com/ajrbello/DevOps%20Practice/_build/latest?definitionId=1&branchName=master)
 
+Alfredo was here
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
